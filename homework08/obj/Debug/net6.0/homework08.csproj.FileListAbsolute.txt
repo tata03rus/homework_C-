@@ -1,0 +1,15 @@
+C:\Users\мвидео\Desktop\homework_C-\homework08\bin\Debug\net6.0\homework08.exe
+C:\Users\мвидео\Desktop\homework_C-\homework08\bin\Debug\net6.0\homework08.deps.json
+C:\Users\мвидео\Desktop\homework_C-\homework08\bin\Debug\net6.0\homework08.runtimeconfig.json
+C:\Users\мвидео\Desktop\homework_C-\homework08\bin\Debug\net6.0\homework08.dll
+C:\Users\мвидео\Desktop\homework_C-\homework08\bin\Debug\net6.0\homework08.pdb
+C:\Users\мвидео\Desktop\homework_C-\homework08\obj\Debug\net6.0\homework08.csproj.AssemblyReference.cache
+C:\Users\мвидео\Desktop\homework_C-\homework08\obj\Debug\net6.0\homework08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\мвидео\Desktop\homework_C-\homework08\obj\Debug\net6.0\homework08.AssemblyInfoInputs.cache
+C:\Users\мвидео\Desktop\homework_C-\homework08\obj\Debug\net6.0\homework08.AssemblyInfo.cs
+C:\Users\мвидео\Desktop\homework_C-\homework08\obj\Debug\net6.0\homework08.csproj.CoreCompileInputs.cache
+C:\Users\мвидео\Desktop\homework_C-\homework08\obj\Debug\net6.0\homework08.dll
+C:\Users\мвидео\Desktop\homework_C-\homework08\obj\Debug\net6.0\refint\homework08.dll
+C:\Users\мвидео\Desktop\homework_C-\homework08\obj\Debug\net6.0\homework08.pdb
+C:\Users\мвидео\Desktop\homework_C-\homework08\obj\Debug\net6.0\homework08.genruntimeconfig.cache
+C:\Users\мвидео\Desktop\homework_C-\homework08\obj\Debug\net6.0\ref\homework08.dll
