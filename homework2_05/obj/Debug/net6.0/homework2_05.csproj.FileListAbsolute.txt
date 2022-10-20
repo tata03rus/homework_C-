@@ -1,0 +1,15 @@
+C:\Users\мвидео\Desktop\homework_C-\homework2_05\bin\Debug\net6.0\homework2_05.exe
+C:\Users\мвидео\Desktop\homework_C-\homework2_05\bin\Debug\net6.0\homework2_05.deps.json
+C:\Users\мвидео\Desktop\homework_C-\homework2_05\bin\Debug\net6.0\homework2_05.runtimeconfig.json
+C:\Users\мвидео\Desktop\homework_C-\homework2_05\bin\Debug\net6.0\homework2_05.dll
+C:\Users\мвидео\Desktop\homework_C-\homework2_05\bin\Debug\net6.0\homework2_05.pdb
+C:\Users\мвидео\Desktop\homework_C-\homework2_05\obj\Debug\net6.0\homework2_05.csproj.AssemblyReference.cache
+C:\Users\мвидео\Desktop\homework_C-\homework2_05\obj\Debug\net6.0\homework2_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\мвидео\Desktop\homework_C-\homework2_05\obj\Debug\net6.0\homework2_05.AssemblyInfoInputs.cache
+C:\Users\мвидео\Desktop\homework_C-\homework2_05\obj\Debug\net6.0\homework2_05.AssemblyInfo.cs
+C:\Users\мвидео\Desktop\homework_C-\homework2_05\obj\Debug\net6.0\homework2_05.csproj.CoreCompileInputs.cache
+C:\Users\мвидео\Desktop\homework_C-\homework2_05\obj\Debug\net6.0\homework2_05.dll
+C:\Users\мвидео\Desktop\homework_C-\homework2_05\obj\Debug\net6.0\refint\homework2_05.dll
+C:\Users\мвидео\Desktop\homework_C-\homework2_05\obj\Debug\net6.0\homework2_05.pdb
+C:\Users\мвидео\Desktop\homework_C-\homework2_05\obj\Debug\net6.0\homework2_05.genruntimeconfig.cache
+C:\Users\мвидео\Desktop\homework_C-\homework2_05\obj\Debug\net6.0\ref\homework2_05.dll
