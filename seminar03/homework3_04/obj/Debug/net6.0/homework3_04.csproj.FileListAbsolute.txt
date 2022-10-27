@@ -1,0 +1,15 @@
+C:\Users\мвидео\Desktop\homework_C-\homework3_04\obj\Debug\net6.0\homework3_04.csproj.AssemblyReference.cache
+C:\Users\мвидео\Desktop\homework_C-\homework3_04\obj\Debug\net6.0\homework3_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\мвидео\Desktop\homework_C-\homework3_04\obj\Debug\net6.0\homework3_04.AssemblyInfoInputs.cache
+C:\Users\мвидео\Desktop\homework_C-\homework3_04\obj\Debug\net6.0\homework3_04.AssemblyInfo.cs
+C:\Users\мвидео\Desktop\homework_C-\homework3_04\obj\Debug\net6.0\homework3_04.csproj.CoreCompileInputs.cache
+C:\Users\мвидео\Desktop\homework_C-\homework3_04\bin\Debug\net6.0\homework3_04.exe
+C:\Users\мвидео\Desktop\homework_C-\homework3_04\bin\Debug\net6.0\homework3_04.deps.json
+C:\Users\мвидео\Desktop\homework_C-\homework3_04\bin\Debug\net6.0\homework3_04.runtimeconfig.json
+C:\Users\мвидео\Desktop\homework_C-\homework3_04\bin\Debug\net6.0\homework3_04.dll
+C:\Users\мвидео\Desktop\homework_C-\homework3_04\bin\Debug\net6.0\homework3_04.pdb
+C:\Users\мвидео\Desktop\homework_C-\homework3_04\obj\Debug\net6.0\homework3_04.dll
+C:\Users\мвидео\Desktop\homework_C-\homework3_04\obj\Debug\net6.0\refint\homework3_04.dll
+C:\Users\мвидео\Desktop\homework_C-\homework3_04\obj\Debug\net6.0\homework3_04.pdb
+C:\Users\мвидео\Desktop\homework_C-\homework3_04\obj\Debug\net6.0\homework3_04.genruntimeconfig.cache
+C:\Users\мвидео\Desktop\homework_C-\homework3_04\obj\Debug\net6.0\ref\homework3_04.dll
