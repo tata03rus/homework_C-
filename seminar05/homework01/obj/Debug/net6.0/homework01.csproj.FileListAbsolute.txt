@@ -1,0 +1,15 @@
+C:\Users\мвидео\Desktop\homework_C-\seminar05\homework01\bin\Debug\net6.0\homework01.exe
+C:\Users\мвидео\Desktop\homework_C-\seminar05\homework01\bin\Debug\net6.0\homework01.deps.json
+C:\Users\мвидео\Desktop\homework_C-\seminar05\homework01\bin\Debug\net6.0\homework01.runtimeconfig.json
+C:\Users\мвидео\Desktop\homework_C-\seminar05\homework01\bin\Debug\net6.0\homework01.dll
+C:\Users\мвидео\Desktop\homework_C-\seminar05\homework01\bin\Debug\net6.0\homework01.pdb
+C:\Users\мвидео\Desktop\homework_C-\seminar05\homework01\obj\Debug\net6.0\homework01.csproj.AssemblyReference.cache
+C:\Users\мвидео\Desktop\homework_C-\seminar05\homework01\obj\Debug\net6.0\homework01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\мвидео\Desktop\homework_C-\seminar05\homework01\obj\Debug\net6.0\homework01.AssemblyInfoInputs.cache
+C:\Users\мвидео\Desktop\homework_C-\seminar05\homework01\obj\Debug\net6.0\homework01.AssemblyInfo.cs
+C:\Users\мвидео\Desktop\homework_C-\seminar05\homework01\obj\Debug\net6.0\homework01.csproj.CoreCompileInputs.cache
+C:\Users\мвидео\Desktop\homework_C-\seminar05\homework01\obj\Debug\net6.0\homework01.dll
+C:\Users\мвидео\Desktop\homework_C-\seminar05\homework01\obj\Debug\net6.0\refint\homework01.dll
+C:\Users\мвидео\Desktop\homework_C-\seminar05\homework01\obj\Debug\net6.0\homework01.pdb
+C:\Users\мвидео\Desktop\homework_C-\seminar05\homework01\obj\Debug\net6.0\homework01.genruntimeconfig.cache
+C:\Users\мвидео\Desktop\homework_C-\seminar05\homework01\obj\Debug\net6.0\ref\homework01.dll
