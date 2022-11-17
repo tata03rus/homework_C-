@@ -1,18 +1,13 @@
 ﻿Console.WriteLine("Показать натуральные числа от M до N");
 Console.WriteLine();
-Console.Write("N = ");
-int N = int.Parse (Console.ReadLine() ?? "");
-Console.Write("M = ");
-int M = int.Parse (Console.ReadLine() ?? "");
+Console.WriteLine("N = 45");
+int N = 45;
+Console.WriteLine("M = 300");
+int M = 300;
 
 Console.WriteLine ("Получаем ряд: ");
-while (N < M)
+while (N <= M)
 {
     Console.Write(N + " ");
     N++;
-}
-while (N >= M)
-{
-    Console.Write(M + " ");
-    M++;
 }
